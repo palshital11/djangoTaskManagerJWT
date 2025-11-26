@@ -1,7 +1,7 @@
 # djangoTaskManagerJWT
 
 A fully functional Task Management REST API built using Django REST Framework and JWT Authentication.
-Users can register, log in, and manage their personal tasks securely using JSON Web Tokens.
+Users can register, log in, and manage their personal tasks securely using JSON Web Tokens. This project helped me understand JWT authentication and building real-world REST APIs using Django.
 
 ---
 
